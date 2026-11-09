@@ -1,5 +1,3 @@
-# DVLD
-
 # 🚗 Driving & Vehicle Licensing Department (DVLD) System
 
 A robust enterprise-level desktop application built with C# and MS SQL Server to digitize and automate driver licensing services, test scheduling, and vehicle application processing.
@@ -57,4 +55,4 @@ The application is engineered using a strict **3-Tier Architecture** pattern to 
 ### Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YourUsername/DVLD-System.git](https://github.com/YourUsername/DVLD-System.git)
+   git clone [https://github.com/mhk7d/DVLD.git](https://github.com/mhk7d/DVLD.git)
